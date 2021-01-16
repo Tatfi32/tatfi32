@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 ## Филиппова Татьяна 
 Moscow, Russia // Tatiana.Filippova@skoltech.ru // +7 (963) 712-60-94
 ## Кратко
@@ -129,3 +129,4 @@ positioning)
 • Горные лыжи и кайт;
 
 • Волонтер;
+-->
